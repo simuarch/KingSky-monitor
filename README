@@ -1,0 +1,26 @@
+"Advanced development tools, platforms and operating systems like weapons, our Chinese people like holding someone else's advanced weapons to fight (do application development), once the foreigners take away our weapons We will do nothing . "
+
+I still remember my Computer teacher's words in college. I think this sentence makes sense, we are now commonly used operating systems such as Windows and Linux operating systems,which are created by foreigners,Once the foreigners take away these operating systems, the consequences will be unimaginable.
+
+I think the Chinese computer technology to improve the overall level of independent research and development need to be a large number of development tools, platform-based architecture and operating system. In 2009 I started learning the embedded technology at the university,The learning process as follows:
+
+1.8051 Microcontroller Theory and assembly and C language programming
+
+2.ARM Principles and Programming
+
+3.uC/OS- Ⅱ embedded operating system
+
+4.Linux application programming
+
+5.Linux Driver Development
+
+6.Linux transplantation, the underlying development
+
+The operating system has always been a kind of mystery to me,but after I learned theory of Operating System and μC/OS- Ⅱ embedded operating system, I had a certain degree of understanding the operating system.In 2011, I began to learn μC/OS- Ⅱ embedded operating system, I fully understood the works of μC/OS- Ⅱ. Later I want to write an embedded operating system.
+
+The Operating system named "KingSky",it is finished after I fully learned μC/OS- Ⅱ and fully understood the works of the operating system . In the preparation of writting KingSky , I encountered many difficulties, through access to information and in-depth study of μC/OS- Ⅱ, I overcome difficulties one after another. During this time, I learned the process of learning embedded technology knowledge. After a month of day and night, and finally completed the initial part of the kernel, after a period of debugging, solve the existing kernel BUG, ​​BUG finally it could be ported in ARM7, ARM9 chip.
+
+During the writing operating systems, I have a theory on the operating system more in-depth understanding, many can not understand the problem before, now can understand. Although KingSky system only to a deeper understanding of my embedded operating system and write, but I open the door to embedded operating systems. With so KingSky stability has not been recognized, there may be BUG, ​​but in a later study, I will continue to improve the system, never give up.
+
+written by Jam(Chinese Name Zhuangtongquan),in Chongqing,China
+
